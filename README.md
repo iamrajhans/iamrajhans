@@ -5,3 +5,4 @@
 
 - 🔭 I’m currently working on micro app development
 - 🌱 I’m currently learning Rust
+- ⚡ Fun fact: Writing clean code in fintech is like managing risk: if you don’t do it right, someone’s bound to lose money.
